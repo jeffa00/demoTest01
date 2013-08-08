@@ -7,4 +7,4 @@ If you find a use for it (and get it before I delete the repository, more power 
 
 Here is some more text.
 
-Here is even more text.
+Here is even less text.
